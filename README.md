@@ -1,2 +1,6 @@
-# factorio
-Things related to the Factorio game, such as blueprints.
+# Factorio guide
+
+A guide to the Factorio game on how to start from nothing to building the first rocket.
+
+1. [Start-up](start-up/README.md)
+1. [Steel age](steel-age/README.md)
