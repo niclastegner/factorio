@@ -2,21 +2,21 @@
 
 ## Crash site
 
-The game starts at the crash site.
+The game starts at the crash site.  
 Collect as much materials you can by "mining" the pieces of the broken spaceship. Even the big ship can be mined.
 
 ## Continue mining by hand
 
-Cut down some trees - create a wooden box.
-Mine some rocks or find a stone patch to extract at least 20 stone.
+Cut down some trees - create a wooden box.  
+Mine some rocks or find a stone patch to extract at least 20 stone.  
 Mine all rocks you come across in the near area.
 
 ## Coal drilling
 
-Place a drill on a coal patch and a wooden box adjacent to the drill. 
-Pick up coal from the box and add it as fuel to the drill.
-Get some coal from the box to your inventory.
-![images/coal-drill.png]
+Place a drill on a coal patch and a wooden box adjacent to the drill.  
+Pick up coal from the box and add it as fuel to the drill.  
+Get some coal from the box to your inventory.  
+![coal-drill](images/coal-drill.png)
 
 # Iron drilling and plate smelting
 
