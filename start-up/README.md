@@ -119,9 +119,9 @@ Make sure there are 75 copper plates and 150 iron plates in the wooden box to cr
 Start researching "Logistic science pack", a.k.a. green science pack.
 
 Increase electric power capacity by adding a new boiler/steam power setup adjacent to the existing one:  
-!increased-electric-power](images/increased-electric-power.png)
+![increased-electric-power](images/increased-electric-power.png)
 
-Start building the "mall" according the design below (make sure all boxes are restricted to 1 stack).  
+Start building the "mall" according the design below (make sure all wooden boxes are restricted to 1 stack).  
 When the mall is completed it will provide you with the essential units to expand your factory, such as inserters, transport belts, assembling machines etc.  
 You will no longer need to build those units by hand, but instead simply pick up what you need and the mall will re-stock itself automatically.  
 ![mall-v1](images/mall-v1.png)
@@ -140,3 +140,12 @@ Create the following design near the mall:
 Go back to the old semi-automated red science and remove it.  
 Create five labs, extend the transport belt for the red and green packs and place the labs adjacent to the transport belt:  
 ![red-green-labs](images/red-green-labs.png)
+
+## Summary
+
+By following this start-up guide you have now setup automated:
+- Electric drills to extract ore and coal.
+- Smelting of iron- and copper plates.
+- Electric production using steam engines.
+- Automated red and green science research .
+- Mall
