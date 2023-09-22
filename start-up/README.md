@@ -109,10 +109,12 @@ Create:
 Create the following design and connect the ore belts and the coal belts:  
 <details>
   <summary>Blueprint string</summary>
+
   ```
   0eNqdmNuOozAMhl9llGsYlRwI8BL7AKtqRDvZbiQaUAijqaq++4ay07LbZBr7quX0YTv+7Zgz2XWTGqw2jjRnove9GUnz80xGfTBtN59zp0GRhminjiQjpj3OR6Prjcp/Tda0e0UuGdHmXX2SprhsM6KM006rBXQ9OL2Z6bhT1t9wQzjbmnHorct3qnMePfSjf6w380s9itavIiMn0uSseBWXS/bAohjWJsxid9eObdflqlN7Z/U+H/pOBYDiC0grD/QPK334vesnO3stt4E38EjwHtnyixwyVCCcnv+FWCWGVYVZEhbAeR3iAWRZnfEqFMUqNYqMfhfFGmgtfLmLTXpw+Y0uw8EtCgysjMDuutFmVNb5k98luLx6/K6tD9H1hjIEZTBomQSFa6YMeixSjKuAxpUwaFoYJUaSsaypMLBY1tQJ7q5U/RBDGqrgGxhUJkELcI0IZg1N0QljQI8ZDJrmMU9eaPa01lCBgUWyhpaYwiUiMImB8QgMJQ7x/3LwEHrVXYZOu3BlqFf2PUWy9G6ykotIKTnsLpfJb+Lswfb+9zl8sfvv7rCf3DA5EsJTTDpFMoAxDCySAYxj0olFYIB9mfgH9nyBABoqgWiAoiQQDdBXBUTXGOmylErKNxDp0nAu8PTd2jzagOyjmDqQhgZoiwHRgP5EgWhUt4qImKMGosh0ylFbuch4yiv0eFWkzqcYVRWRyVJsMLDIaClwHepq261DaRNpUAIjqcXUbbZ8FmlWX1Ey0rX+aX/uh1Uv49GDtDm8fBT+yoey45LJVcFlTSWnjFXC7z7/AFOOqi8=
   ```
 </details>
+
 ![automated-ore-smelting](images/automated-ore-smelting.png)
 
 Setup this solution for both iron and copper.  
