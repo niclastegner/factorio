@@ -109,7 +109,8 @@ Start researching "Logistics".
 Create two electric drills, place then on the ore patch.  
 ![electric-ore-drilling](images/electric-ore-drilling.png)
 
-Create:
+Create two more electric drills, place then on the coal patch in the same way as on the ore path.  
+Then create:
 - 4 x Smelter
 - 8 x Inserter
 - 2 x Splitter
