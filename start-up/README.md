@@ -109,7 +109,7 @@ Start researching "Logistics".
 Create two electric drills, place then on the ore patch.  
 ![electric-ore-drilling](images/electric-ore-drilling.png)
 
-Create two more electric drills, place then on the coal patch in the same way as on the ore path.  
+Create two more electric drills, place them on the coal patch in the same way as on the ore path.  
 Then create:
 - 4 x Smelter
 - 8 x Inserter
@@ -139,7 +139,7 @@ Start researching "Logistic science pack", a.k.a. green science pack.
 Increase electric power capacity by adding a new boiler/steam power setup adjacent to the existing one:  
 ![increased-electric-power](images/increased-electric-power.png)
 
-Start building the "mall" according the design below (make sure all wooden boxes are restricted to 1 stack).  
+Start building the "mall" according to the design below (make sure all wooden boxes are restricted to 1 stack).  
 When the mall is completed it will provide you with the essential units to expand your factory, such as inserters, transport belts, assembling machines etc.  
 You will no longer need to build those units by hand, but instead simply pick up what you need and the mall will re-stock itself automatically.  
 <details>
@@ -172,7 +172,7 @@ Create the following design near the mall:
 ![red-green-science-v1](images/red-green-science-v1.png)
 
 Go back to the old semi-automated red science and remove it.  
-Create five labs, extend the transport belt for the red and green packs and place the labs adjacent to the transport belt:  
+Create seven labs, extend the transport belt for the red and green packs and place the labs adjacent to the transport belt:  
 ![red-green-labs](images/red-green-labs.png)
 
 ## Summary
