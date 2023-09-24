@@ -30,6 +30,9 @@ Create the following design (while at the same time always researching according
 
 ![steel-smelting](images/steel-smelting.png)
 
+Go to the iron ore patch and add four drills to a new transport belt and connect it to the input of the steel smelting design.  
+Split of the existing coal transport belt and connect it to the input of the steel smelting design.
+
 # Trains and oil
 
 While building the train capabilities make sure that the research list is ticked off.  
@@ -67,7 +70,8 @@ Extend the mall with engines and rails by building the following design (restric
 
 ![engines-and-rails](images/engines-and-rails.png)
 
-Pick up a stack of steel from the steel belt and some green circuites and iron cogs from the mall.  
+Pick up a stack of steel from the steel belt.  
+Go to the mall and pick up 11 Assembling machine, plus some green circuites and iron cogs.  
 Create 11 x Assembling machine 2 and place them on the red/green science setup to upgrade their speed.  
 Create 4 x Lab and extend the lab setup:  
 ![faster-research](images/faster-research.png)
