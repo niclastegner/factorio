@@ -64,11 +64,15 @@ Create:
 - 2 x Assembling machine
 - 4 x Inserter
 - 1 x Wooden box
-- N x Electric poles
+- N x Electric poles (for this you may need to cut down more trees)
 Place near the iron smelter.
 
 Place electric poles to connect the units to the steam engine.  
 ![semi-auto-transport-belt](images/semi-auto-transport-belt.png)
+
+> [!IMPORTANT]
+> This design will consume all created iron plates from the smelter.  
+> If you're short on iron plates for creating new units you can always temporarily remove the electric pole in the middle of the machines above and iron plates will pile up in the smelter.
 
 ## Automated boiler fueling
 
@@ -111,7 +115,7 @@ Create two electric drills, place then on the ore patch.
 
 Create two more electric drills, place them on the coal patch in the same way as on the ore path.  
 Then create:
-- 4 x Smelter
+- 4 x Smelter (for this you may need to mine more rocks or stone ore by hand)
 - 8 x Inserter
 - 2 x Splitter
 - 1 x Underground belt
