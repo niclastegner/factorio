@@ -65,6 +65,7 @@ Create:
 - 4 x Inserter
 - 1 x Wooden box
 - N x Electric poles (for this you may need to cut down more trees)
+
 Place near the iron smelter.
 
 Place electric poles to connect the units to the steam engine.  
