@@ -103,6 +103,10 @@ Pick up the parts from the chests and start building by hand:
 Open the Power armor and equip your new gear:  
 ![power-armor-equipped](images/power-armor-equipped.png)
 
+You can now deconstruct the Power armor factory, it has served its purpose.  
+Start by cutting of the input belts of the Power armor factory, then try out the robotics feature of your new power armor
+by selecting the (red) deconstruction planner icon and then select the parts you wish to deconstruct.
+
 ## Summary
 
 By following the guide above you have now a cool Sushi mall in your factory and you no longer need to build
